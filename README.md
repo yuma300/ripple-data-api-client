@@ -37,6 +37,8 @@ result = rippledata.offersExercised(values)
 puts result['results'].inspect
 ```
 
+"offersExercised" is one of Ripple Data API.
+for more information of Ripple Data APIs, please refer [http://docs.rippledataapi.apiary.io/](http://docs.rippledataapi.apiary.io/).
 ## Contributing
 
 1. Fork it
